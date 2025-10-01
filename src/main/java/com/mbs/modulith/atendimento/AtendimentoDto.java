@@ -1,6 +1,6 @@
 package com.mbs.modulith.atendimento;
 
-public class AtendimentoDTO {
+public class AtendimentoDto {
 
 	private Integer codigo;
 	private Integer codigoPaciente;

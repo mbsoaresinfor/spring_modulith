@@ -4,7 +4,7 @@ import java.util.List;
 
 public interface AtendimentoService {
 
-	public void salvar(AtendimentoDTO atendimentoDto);
+	public void salvar(AtendimentoDto atendimentoDto);
 	
-	public List<AtendimentoDTO> listar();
+	public List<AtendimentoDto> listar();
 }
